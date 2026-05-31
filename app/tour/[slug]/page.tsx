@@ -242,6 +242,48 @@ const tours: Record<string, {
       "Travel insurance",
     ],
   },
+  "lovina-dolphin": {
+    title: "Lovina Dolphin Watching & North Bali Tour",
+    image: "/images/lovina-beach.jpg",
+    price: "70",
+    duration: "8 hours",
+    rating: 5.0,
+    description: "Experience the magical morning at Lovina Beach watching wild dolphins in their natural habitat. This tour includes traditional jukung boat rides, beautiful northern Bali coastline, and local cultural experiences.",
+    highlights: [
+      "Wild dolphin watching at sunrise",
+      "Traditional wooden jukung boat ride",
+      "Beautiful North Bali coastline",
+      "Lovina Beach experience",
+      "Local village exploration",
+      "Traditional Balinese breakfast",
+    ],
+    itinerary: [
+      "Early hotel pickup (4:30 AM)",
+      "Drive to Lovina Beach",
+      "Dolphin watching boat tour (5:30 AM - 7:00 AM)",
+      "Traditional breakfast with ocean view",
+      "Lovina Beach exploration",
+      "Visit local villages",
+      "Lunch at local restaurant",
+      "Return to hotel (1:00 PM)",
+    ],
+    includes: [
+      "Private air-conditioned vehicle",
+      "English-speaking driver",
+      "Jukung boat rental",
+      "Traditional breakfast",
+      "Lunch",
+      "All entrance fees",
+      "Mineral water",
+      "Hotel pickup & drop-off",
+    ],
+    excludes: [
+      "Personal expenses",
+      "Tips (optional)",
+      "Travel insurance",
+      "Dolphin watching guarantee",
+    ],
+  },
 }
 
 export default function TourDetailPage({
