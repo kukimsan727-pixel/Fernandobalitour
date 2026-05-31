@@ -16,7 +16,7 @@ const cars = [
   },
   {
     name: "Mitsubishi XPander",
-    price: "IDR 700,000",
+    price: "IDR 800,000",
     duration: "10 Hours",
     overtime: "10% of price per hour",
     description: "Brand-new minivan with air conditioning",
@@ -26,7 +26,7 @@ const cars = [
   },
   {
     name: "Toyota Avanza",
-    price: "IDR 650,000",
+    price: "IDR 800,000",
     duration: "10 Hours",
     overtime: "10% of price per hour",
     description: "Brand-new minivan with air conditioning",
