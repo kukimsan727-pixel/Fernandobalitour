@@ -24,7 +24,7 @@ const activities = [
     rating: 5.0,
   },
   {
-    slug: "waterfall-tour",
+    slug: "waterfall-adventure",
     title: "Hidden Waterfall & Jungle Adventure in Bali",
     image: "/images/waterfall-bali.jpg",
     price: "39",

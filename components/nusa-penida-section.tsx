@@ -2,7 +2,7 @@ import { TourCard } from "@/components/tour-card"
 
 const nusaPenidaTours = [
   {
-    slug: "west-nusa-penida",
+    slug: "nusa-penida-west",
     title: "Private Day Tour: West Nusa Penida Trip from Bali",
     image: "/images/nusa-penida.jpg",
     price: "55",
@@ -25,7 +25,7 @@ const nusaPenidaTours = [
     popular: true,
   },
   {
-    slug: "east-nusa-penida",
+    slug: "nusa-penida-east",
     title: "East Nusa Penida Day Trip: All-Inclusive Tour from Bali",
     image: "/images/nusa-penida.jpg",
     price: "60",

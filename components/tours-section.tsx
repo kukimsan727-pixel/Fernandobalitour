@@ -25,21 +25,7 @@ const oneDayTours = [
     rating: 5.0,
   },
   {
-    slug: "uluwatu-kecak",
-    title: "Halfday Trip - Uluwatu & Kecak Fire Dance",
-    image: "/images/tanah-lot.jpg",
-    price: "30",
-    rating: 5.0,
-  },
-  {
-    slug: "tanah-lot-sunset",
-    title: "Halfday Taman Ayun Royal Temple + Tanah Lot Sunset Tour",
-    image: "/images/tanah-lot.jpg",
-    price: "30",
-    rating: 5.0,
-  },
-  {
-    slug: "best-ubud-swing",
+    slug: "ubud-instagram",
     title: "Best of Ubud Tour with Jungle Swing",
     image: "/images/ubud-tour.jpg",
     price: "55",
